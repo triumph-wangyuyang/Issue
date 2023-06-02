@@ -1,4 +1,4 @@
-编号,接口名称,接口缺陷（链接）,数量,官方确认
+编号,接口名称,缺陷详情链接,数量,官方确认
 #89382,"torch.nn.SiLU
 、torch.nn.functional.silu",https://github.com/pytorch/pytorch/issues/89382,2,是
 #89393,"torch.nn.Softsign、
