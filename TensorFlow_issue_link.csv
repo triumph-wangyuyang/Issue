@@ -1,4 +1,4 @@
-编号,接口名称,缺陷（链接）,数量,官方确认
+编号,接口名称,缺陷详情链接,数量,官方确认
 #58702,"tf.image.rot90
 、tf.image.stateless_random_flip_up_down",https://github.com/tensorflow/tensorflow/issues/58702,2,是
 #58711,tf.keras.layers.BatchNormalization,https://github.com/tensorflow/tensorflow/issues/58711,1,是
