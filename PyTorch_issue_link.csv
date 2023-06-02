@@ -1,4 +1,4 @@
-编号,算子名称,算子缺陷（链接）,数量,官方确认
+编号,接口名称,接口缺陷（链接）,数量,官方确认
 #89382,"torch.nn.SiLU
 、torch.nn.functional.silu",https://github.com/pytorch/pytorch/issues/89382,2,是
 #89393,"torch.nn.Softsign、
@@ -52,4 +52,4 @@ torch.nn.MaxUnpool3d",https://github.com/pytorch/pytorch/issues/89409,6,是
 #89419,torch.equal,https://github.com/pytorch/pytorch/issues/89419,1,是
 #89420,torch.baddbmm,https://github.com/pytorch/pytorch/issues/89420,1,是
 #89482,torch.split,https://github.com/pytorch/pytorch/issues/89482,1,是
-,,算子缺陷总数,53,
+,,接口缺陷总数,53,
